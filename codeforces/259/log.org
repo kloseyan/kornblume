@@ -1,0 +1,5 @@
+* A
+Very easy. Judge if every line is alternate with B and W. AC at first submit.
+* B
+very easy. Solve the formular by hand. AC at first submit.
+

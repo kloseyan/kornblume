@@ -1,0 +1,6 @@
+* A
+I got three WAs before a final AC. That's a distater.
+In fact it is a quite easy problem.
+If a % b == 0 then (a * 10) % b == 0
+
+* B
