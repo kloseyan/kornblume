@@ -1,0 +1,6 @@
+* 1000 A+B problem
+AC at first submission
+* 1001 Reverse Root
+Quite easy.
+AC at second submission. I did not open an enough array at first time.
+

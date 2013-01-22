@@ -1,0 +1,19 @@
+#include <cstdio>
+#include <cmath>
+
+using namespace std;
+
+#define MAX 10000000
+double a[MAX];
+double b[MAX]; 
+int main(void) {
+	int cnt = 0;
+	while (scanf("%lf", &a[cnt]) != -1) {
+		b[cnt] = sqrt(a[cnt]);
+		cnt ++;
+	}
+	for (int i = cnt - 1; i >= 0; i --) {
+		printf("%.4lf\n", b[i]);
+	}
+	return 0;
+}
